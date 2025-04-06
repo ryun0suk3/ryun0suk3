@@ -1,5 +1,5 @@
 - 👋 hi, I’m drishya, or @ryun0suk3!
-- 🌱 i'm a MERN and python web developer
-- ⚡  who's currently learning Next.js!
-- 🎀 i want to build useful, scalable projects!
+- 🌱 i'm a web developer who uses multiple tech stacks
+- ⚡  who's into generative ai and other cool technologies!
+- 🎀 i want to build useful, scalable projects
 - 🐈 i also have three cats :D
